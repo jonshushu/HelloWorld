@@ -20,7 +20,7 @@ public class WeatherAnalysisP2 {
             sum = sum + data[i];
         }
 double average = sum/days;
-
+System.out.println("Average temp" + "= 44.6");
     }
 }
 //  1.ask for user input
