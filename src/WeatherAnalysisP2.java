@@ -21,6 +21,8 @@ public class WeatherAnalysisP2 {
         }
 double average = sum/days;
 System.out.println("Average temp" + "= 44.6");
+int aboveAverage = 0;
+
     }
 }
 //  1.ask for user input
